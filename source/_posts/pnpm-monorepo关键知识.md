@@ -1,7 +1,7 @@
 ---
 title: pnpm+monorepo关键知识
 date: 2025-06-10 20:57:34
-tags: 前端工程化
+tags: pnpm
 ---
 
 ### 1. 工作区配置
