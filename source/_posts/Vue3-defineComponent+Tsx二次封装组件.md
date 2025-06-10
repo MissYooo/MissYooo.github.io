@@ -1,7 +1,7 @@
 ---
 title: Vue3-defineComponent+Tsx二次封装组件
 date: 2025-06-10 20:39:22
-tags:
+tags: Vue3
 ---
 
 Button.tsx
